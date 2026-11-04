@@ -4,7 +4,7 @@ Hi, I’m MEZROUH Iname , an AI student with a strong background in computer sci
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <a href="iname.mezrouh@ensia.edu.dz">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -19,11 +19,11 @@ Hi, I’m MEZROUH Iname , an AI student with a strong background in computer sci
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=java,react,flask,fastapi,mysql,postgres" />
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,postman,figma" />
   <img src="https://skillicons.dev/icons?i=cpp,c,python,php,linux" />
-</p>
+</p> -->
 
 
-<hr>
+<hr> -->
